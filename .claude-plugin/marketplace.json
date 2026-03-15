@@ -1,0 +1,52 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aeo-basis-plugin-marketplace",
+  "description": "Accounting firm knowledge base — BK, TX, FP&A, OPS",
+  "owner": {
+    "name": "AEO Basis"
+  },
+  "plugins": [
+    {
+      "name": "accounting-foundation",
+      "description": "Cross-cutting accounting knowledge: COA, financial statements, categorization rules, entity profile",
+      "source": "./plugins/accounting-foundation",
+      "category": "productivity",
+      "tags": ["accounting", "foundation", "coa", "gaap"]
+    },
+    {
+      "name": "bookkeeping",
+      "description": "Transaction processing through monthly close: bank rec, payroll, 1099, catch-up, audit support",
+      "source": "./plugins/bookkeeping",
+      "category": "productivity",
+      "tags": ["accounting", "bookkeeping", "reconciliation", "close", "payroll"]
+    },
+    {
+      "name": "tax-prep",
+      "description": "Federal Form 1120, state returns, foreign ownership filings, tax planning, e-filing",
+      "source": "./plugins/tax-prep",
+      "category": "productivity",
+      "tags": ["accounting", "tax", "1120", "compliance", "irs"]
+    },
+    {
+      "name": "financial-planning",
+      "description": "Budgeting, variance analysis, financial modeling, strategic advisory, ASC 740 tax provision",
+      "source": "./plugins/financial-planning",
+      "category": "productivity",
+      "tags": ["accounting", "fpa", "budgeting", "forecasting", "advisory"]
+    },
+    {
+      "name": "firm-operations",
+      "description": "Practice management, engagement letters, QC/peer review, data governance, workflow automation",
+      "source": "./plugins/firm-operations",
+      "category": "productivity",
+      "tags": ["accounting", "operations", "practice-management", "compliance"]
+    },
+    {
+      "name": "qbo-integration",
+      "description": "QuickBooks Online platform integration: API patterns, COA management, bookkeeping ops, reporting, audit",
+      "source": "./plugins/qbo-integration",
+      "category": "productivity",
+      "tags": ["accounting", "qbo", "quickbooks", "integration", "api"]
+    }
+  ]
+}

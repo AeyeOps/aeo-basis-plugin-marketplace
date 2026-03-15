@@ -1,0 +1,9 @@
+{
+  "name": "firm-operations",
+  "version": "0.2.0",
+  "description": "Practice management, engagement letters, QC/peer review, data governance, and workflow automation",
+  "author": {
+    "name": "AEO Basis"
+  },
+  "license": "MIT"
+}

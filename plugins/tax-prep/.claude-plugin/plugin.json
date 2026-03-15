@@ -1,0 +1,9 @@
+{
+  "name": "tax-prep",
+  "version": "0.2.0",
+  "description": "Federal Form 1120, state returns, foreign ownership filings, tax planning, IRS correspondence, and e-filing",
+  "author": {
+    "name": "AEO Basis"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "qbo-integration",
+  "version": "0.2.0",
+  "description": "QuickBooks Online platform integration: API patterns, COA management, bookkeeping operations, reporting, and audit support",
+  "author": {
+    "name": "AEO Basis"
+  },
+  "license": "MIT"
+}
