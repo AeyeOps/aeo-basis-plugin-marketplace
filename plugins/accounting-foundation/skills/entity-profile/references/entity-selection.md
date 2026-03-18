@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
+---
+
 # Entity Selection and Formation — Business Structure Advisory
 
 **Purpose**: Entity type comparison (C-corp, S-corp, LLC/partnership, sole proprietorship), tax implications of each structure, formation procedures, S-election mechanics, and Florida-specific considerations.

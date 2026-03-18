@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Modernized e-File (MeF) — Form 1120
 
 **Purpose**: IRS electronic filing system for corporate income tax returns; covers XML schema structure, transmission, acknowledgments, rejection handling, and provider requirements.

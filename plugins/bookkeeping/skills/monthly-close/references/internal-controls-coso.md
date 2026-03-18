@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Internal Controls — COSO 2013 Framework
 
 Guidance for designing, implementing, and evaluating internal controls using the COSO 2013 framework, with focus on small/mid C-corporations.

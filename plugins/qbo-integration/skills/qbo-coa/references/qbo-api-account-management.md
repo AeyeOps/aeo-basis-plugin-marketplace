@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QBO API Account Management — Knowledge Base
 
 Research date: 2026-02-24. Sources cited inline throughout.

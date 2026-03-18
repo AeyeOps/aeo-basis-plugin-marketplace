@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Catch-Up Transaction Entry
 
 Transaction entry strategies and bank statement classification for multi-year catch-up bookkeeping.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
+---
+
 # Net Operating Loss (NOL) Tracking: C-Corporation Rules
 
 **Purpose**: NOL computation, carryback/carryforward rules, utilization limitations, and year-by-year tracking for C-corporation Form 1120 filers.

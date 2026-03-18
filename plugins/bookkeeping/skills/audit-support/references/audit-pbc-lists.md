@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Audit PBC Lists
 
 PBC (Prepared by Client) list generation and tracking for CPA audits.

@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Executive and Officer Compensation Benchmarking
 
 **Purpose:** Methodology for benchmarking executive compensation in closely-held corporations to establish and defend reasonable compensation levels.

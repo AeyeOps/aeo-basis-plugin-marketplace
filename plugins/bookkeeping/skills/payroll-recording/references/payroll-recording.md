@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Payroll Recording
 
 Procedures for recording payroll journal entries, reconciling payroll liabilities, and integrating external payroll providers with the general ledger.

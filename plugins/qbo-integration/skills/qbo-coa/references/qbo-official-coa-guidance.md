@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QBO Official Chart of Accounts Guidance
 
 Compiled from Intuit/QuickBooks official documentation and community support articles.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Transfer Pricing — IRC Section 482 Deep Operational Guide
 
 **Purpose**: Detailed transfer pricing methods, documentation requirements, penalty framework, and APA procedures for C-corporation intercompany transactions under IRC Section 482.

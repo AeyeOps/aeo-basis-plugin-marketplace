@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
+---
+
 # State Income Tax Nexus: Corporate Filing Obligations
 
 **Purpose**: Determine which states a corporation must file income tax returns in, with deep focus on Florida corporate income tax rules.

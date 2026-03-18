@@ -1,6 +1,6 @@
 {
   "name": "accounting-foundation",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Cross-cutting accounting knowledge shared by all service lines: COA, financial statements, categorization rules, entity profile",
   "author": {
     "name": "AEO Basis"

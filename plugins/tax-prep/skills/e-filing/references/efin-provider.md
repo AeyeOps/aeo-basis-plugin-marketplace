@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # EFIN and Authorized E-File Provider
 
 **Purpose**: IRS e-file provider authorization process, EFIN assignment, provider types, renewal, e-file mandate compliance, and advertising standards.

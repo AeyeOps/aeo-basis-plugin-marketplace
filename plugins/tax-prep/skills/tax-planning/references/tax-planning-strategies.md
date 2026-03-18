@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Tax Planning Strategies — C-Corporations
 
 **Purpose**: Proactive tax planning strategies for C-corporations covering income timing, deduction acceleration, compensation optimization, retirement plans, charitable giving, estimated taxes, entity structure, and dividend planning.

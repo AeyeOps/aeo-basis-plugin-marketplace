@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Data Security
 
 **Purpose:** Document IRS requirements and FTC Safeguards Rule obligations for protecting taxpayer data in tax and accounting practices, including WISP requirements.

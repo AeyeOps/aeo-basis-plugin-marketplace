@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # SSARS — Compilation, Review, and Preparation Engagements
 
 Guidance for performing preparation, compilation, and review engagements under SSARS (AR-C Sections 60-90).

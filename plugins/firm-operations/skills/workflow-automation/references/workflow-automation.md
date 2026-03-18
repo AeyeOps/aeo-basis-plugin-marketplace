@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Workflow Automation Patterns for Accounting Firm Operations
 
 **Purpose:** Event-driven automation patterns, integration architectures, and tooling for streamlining accounting firm workflows.

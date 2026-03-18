@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Income Tax Provision — ASC 740
 
 **Purpose**: Compute income tax expense for financial statements under ASC 740, including current/deferred tax, DTA/DTL measurement, valuation allowance, uncertain tax positions, and rate reconciliation.

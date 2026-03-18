@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Worker Classification — Employee vs Independent Contractor
 
 **Purpose**: Framework for classifying workers as employees or independent contractors, covering federal and state tests, safe harbor relief, reclassification programs, and documentation requirements.

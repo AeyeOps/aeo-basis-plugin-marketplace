@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Estimated Tax — C-Corporations (Form 1120-W / Form 2220)
 
 **Purpose**: Quarterly estimated tax payment rules for C-corps, safe harbor thresholds, penalty calculation, and special methods for uneven income.

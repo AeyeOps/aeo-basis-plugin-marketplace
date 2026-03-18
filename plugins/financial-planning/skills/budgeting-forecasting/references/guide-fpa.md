@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # FP&A (Financial Planning & Analysis) — Expert Resource Guide
 
 ## 1. Core Frameworks & Body of Knowledge

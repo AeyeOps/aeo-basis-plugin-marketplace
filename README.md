@@ -1,8 +1,8 @@
 # AEO Basis Plugin Marketplace
 
-An open-source knowledge base for accounting firms, packaged as a [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketplace. Six plugins deliver 34 specialized skills across bookkeeping, tax preparation, financial planning, and firm operations — all tuned for C-corporation engagements on US GAAP.
+An open-source knowledge base for accounting firms, packaged as a [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketplace. Six plugins deliver 36 specialized skills across bookkeeping, tax preparation, financial planning, and firm operations — all tuned for C-corporation engagements on US GAAP.
 
-Every skill is backed by curated reference material (124 articles, 32,000+ lines of source content) synthesized into operational decision logic, procedures, and rules that Claude can apply in real time during client work.
+Every skill is backed by curated reference material (130 articles, 34,000+ lines of source content) synthesized into operational decision logic, procedures, and rules that Claude can apply in real time during client work.
 
 ## What This Does
 
@@ -28,7 +28,7 @@ graph TB
 
     subgraph "Domain Plugins"
         BK[bookkeeping<br/>7 skills]
-        TX[tax-prep<br/>8 skills]
+        TX[tax-prep<br/>10 skills]
         FP[financial-planning<br/>5 skills]
         OPS[firm-operations<br/>5 skills]
     end
@@ -99,6 +99,8 @@ graph LR
         t6[tax-planning]
         t7[nol-tracking]
         t8[e-filing]
+        t9[accounting-method-changes]
+        t10[multistate-salt-matrix]
     end
 
     subgraph FP["financial-planning"]
@@ -170,6 +172,8 @@ Form 1120, Florida F-1120, supporting schedules, planning, and IRS correspondenc
 - **tax-planning** — Year-end strategies, entity selection, officer compensation, AET, R&D credit, worker classification
 - **nol-tracking** — NOL computation, carryback/carryforward rules by era, Section 382 limitations, utilization waterfall
 - **e-filing** — MeF transmission, rejection code resolution, EFIN credentials, Form 8879-CORP, mandatory e-file thresholds
+- **accounting-method-changes** — Form 3115 filing, IRC 446/481(a) adjustments, automatic vs non-automatic consent, DCN catalog, audit protection
+- **multistate-salt-matrix** — Cross-state apportionment comparison, nexus evaluation, P.L. 86-272 analysis, state conformity matrix, combined reporting
 
 ### financial-planning — Forward-looking analysis and advisory
 
@@ -276,7 +280,7 @@ aeo-basis-plugin-marketplace/
 │   ├── accounting-foundation/    # 4 skills, 18 reference files
 │   ├── qbo-integration/          # 5 skills, 26 reference files
 │   ├── bookkeeping/              # 7 skills, 18 reference files
-│   ├── tax-prep/                 # 8 skills, 38 reference files
+│   ├── tax-prep/                 # 10 skills, 41 reference files
 │   ├── financial-planning/       # 5 skills, 13 reference files
 │   └── firm-operations/          # 5 skills, 14 reference files
 ├── CHANGELOG.md
@@ -302,6 +306,7 @@ Contributions welcome. Key guidelines:
 - **Content must be platform-neutral** — domain plugins reference "the accounting system" generically and delegate platform-specific execution to `qbo-integration` skills
 - **Cross-plugin references** use `plugin-name:skill-name` format — never reference another plugin's internal files
 - **Reference files** are the source of truth; SKILL.md content is derived from them
+- **Jurisdiction overlay** — Skills with state-specific sections use a scope callout blockquote at the top and label state-specific headers with the jurisdiction name in parentheses (e.g., `### Section Name (Florida)`). National/federal content stands alone without qualification. See `firm-operations:quality-compliance` for the reference implementation.
 
 ## License
 

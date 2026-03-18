@@ -4,6 +4,10 @@ description: |
   How to reconcile brokerage investment accounts for C-corps. Teaches how to read
   brokerage statements, distinguish external cash flows from internal activity,
   and avoid the most common error: assuming Schedule L balance increases imply cash deposits.
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
 ---
 
 # Investment Account Reconciliation

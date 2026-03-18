@@ -1,6 +1,6 @@
 {
   "name": "bookkeeping",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Day-to-day transaction processing through monthly close: bank rec, payroll, 1099, catch-up bookkeeping, audit support",
   "author": {
     "name": "AEO Basis"

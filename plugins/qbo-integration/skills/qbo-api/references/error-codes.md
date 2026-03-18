@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QuickBooks Online API Error Codes Reference
 
 ## Table of Contents

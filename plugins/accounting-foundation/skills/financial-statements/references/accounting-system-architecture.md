@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Accounting System Architecture Reference
 
 Patterns and data models from a production-grade double-entry accounting system.

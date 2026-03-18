@@ -19,6 +19,11 @@ Form 1120, Florida F-1120, and Form 5472 (foreign-owned corps). This skill provi
 the canonical field names, line mappings, and era-routing logic that downstream
 preparation skills depend on.
 
+> **State-specific scope:** Federal Form 1120 and Form 5472 content is nationally
+> applicable. Florida F-1120 eras, exemption history, and line shifts use **Florida**
+> as the reference state jurisdiction. Sections marked (Florida) contain state-specific
+> content.
+
 ## Era Routing
 
 Every tax year maps to exactly one era for each jurisdiction. Determine the era first,
@@ -33,7 +38,7 @@ The TCJA boundary at tax year 2018 is the single most important routing decision
 federal return preparation. When a user asks about any Form 1120 line, rate, or
 deduction rule, resolve the era before answering.
 
-### Florida F-1120 Eras
+### Florida F-1120 Eras (Florida)
 
 Four structural revisions, identified by form revision stamp:
 
@@ -44,7 +49,7 @@ Four structural revisions, identified by form revision stamp:
 
 FL corporate tax rate: 5.5% across all eras (2007-2025).
 
-### Florida Exemption History
+### Florida Exemption History (Florida)
 
 - 2007-2011 — $5,000
 - 2012 — $25,000
@@ -112,7 +117,7 @@ Key changes at the 2017-2018 boundary:
 - Schedule C (DRD) — computation unchanged but AMT interaction removed
 - Tax rate schedule — graduated table replaced by flat 21% on Line 31
 
-### Florida Line Shifts
+### Florida Line Shifts (Florida)
 
 Cross-revision changes to watch:
 - **R-01-07 to R-01-13**: EET lines removed, line numbers renumber from that point down; exemption amount field changes

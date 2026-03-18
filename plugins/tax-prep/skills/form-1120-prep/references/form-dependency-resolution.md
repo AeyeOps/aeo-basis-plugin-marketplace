@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Form Dependency Resolution Patterns
 
 Reference patterns for resolving inter-form dependencies in US individual income tax

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Extension to File — Form 7004
 
 **Purpose**: Automatic extension of time to file Form 1120 and other business returns; does NOT extend time to pay.

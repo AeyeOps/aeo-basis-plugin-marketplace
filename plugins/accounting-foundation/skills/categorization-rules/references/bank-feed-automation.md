@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Bank Feed Automation
 
 Bank feed connection, auto-matching, rules engine, and ongoing maintenance for automated transaction ingestion. For platform-specific setup steps, invoke `qbo-integration:qbo-bank-feeds` or the equivalent integration skill.

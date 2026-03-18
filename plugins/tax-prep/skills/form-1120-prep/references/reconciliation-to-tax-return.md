@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Reconciliation of Trial Balance to Form 1120 Tax Return
 
 **Purpose**: Systematic process for bridging financial statements (book basis) to Form 1120 tax return lines, including GL account mapping, book-tax adjustments, and workpaper preparation.

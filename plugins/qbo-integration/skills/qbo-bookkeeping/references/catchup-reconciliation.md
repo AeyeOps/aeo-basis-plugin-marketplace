@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Catch-Up Reconciliation and Validation
 
 Bank reconciliation, year-end closing, and validation checks for catch-up bookkeeping.

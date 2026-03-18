@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Expert CPA (Corporate Focus) — Resource Guide
 
 ## 1. CPA Exam Structure (2026)

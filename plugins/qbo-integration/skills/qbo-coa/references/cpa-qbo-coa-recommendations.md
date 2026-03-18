@@ -1,3 +1,10 @@
+---
+authority_level: tertiary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # CPA & Accountant Recommendations: QuickBooks Online Chart of Accounts
 
 Research compiled from CPA blogs, accounting firm websites, and professional forums.

@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Budget Data Model — Budget Management System
 
 Budget management system providing budgetary positions, budget headers with budget lines, and time-proportional theoretical amount computation. Connects budgets to GL accounts via budgetary positions and to analytic accounting via analytic accounts. Tracks planned vs. actual (practical) amounts with achievement percentage.

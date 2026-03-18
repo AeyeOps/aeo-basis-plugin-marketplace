@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # C-Corporation Chart of Accounts Design Guide
 
 Operational reference for COA structure, numbering, tax-line mapping, and equity

@@ -26,6 +26,12 @@ timing, entity structure, compensation optimization, penalty tax avoidance,
 credit identification, employment tax compliance, worker classification, and
 financial statement tax provision.
 
+> **State-specific scope:** Income timing, deduction acceleration, compensation,
+> retirement plans, charitable contributions, AET, R&D credit, entity selection,
+> worker classification, ASC 740 provision, and estimated tax content is nationally
+> applicable. Sections marked (Florida) contain **Florida**-specific tax rules.
+> Practitioners in other states should substitute their state's rules.
+
 ## Income Timing Strategies
 
 ### Deferring Income
@@ -238,7 +244,7 @@ Determined by lookback period (4-quarter total): monthly if $50K or less, semi-w
 
 100% of unpaid trust fund taxes (employee share of FICA plus withheld income tax). Assessed against any responsible person who willfully fails to pay. Willfulness = awareness of outstanding taxes combined with paying other creditors first. Joint and several liability.
 
-### Florida Reemployment Tax
+### Florida Reemployment Tax (Florida)
 
 $7,000 wage base, experience-rated (new employer: 2.7%). Quarterly filing on Form RT-6. No state income tax withholding required.
 

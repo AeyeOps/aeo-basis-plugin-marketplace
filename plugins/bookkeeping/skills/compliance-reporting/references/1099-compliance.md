@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # 1099 Compliance
 
 Procedures for 1099-NEC and 1099-MISC reporting, W-9 collection, backup withholding, and electronic filing requirements.

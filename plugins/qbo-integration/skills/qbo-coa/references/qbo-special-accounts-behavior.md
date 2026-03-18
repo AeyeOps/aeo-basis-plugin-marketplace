@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QBO Special and System Accounts: Behavior, Restrictions, and Implications
 
 **Research date:** 2026-02-24

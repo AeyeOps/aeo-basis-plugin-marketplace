@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Accumulated Earnings Tax (IRC 531-537): C-Corporation Rules
 
 **Purpose**: AET computation, reasonable business needs analysis, Bardahl working capital formula, and audit defense for C-corporations retaining earnings beyond the accumulated earnings credit.

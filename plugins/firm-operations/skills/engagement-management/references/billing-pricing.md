@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Billing and Pricing
 
 **Purpose:** Define pricing models, billing practices, and profitability analysis methods for accounting firm service lines.

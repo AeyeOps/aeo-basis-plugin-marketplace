@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Segment Reporting and NCI
 
 Segment reporting, non-controlling interest calculations, and consolidation package export.

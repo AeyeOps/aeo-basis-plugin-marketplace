@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Form 1120 Schedules L, M-1, M-2, C
 
 Balance sheet mapping, book-tax reconciliation, retained earnings analysis, and dividends received deduction.

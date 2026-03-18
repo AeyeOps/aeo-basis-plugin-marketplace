@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Book-Tax Differences: C-Corporation Schedule M-1 / M-3 Preparation
 
 **Purpose**: Identify and classify book-tax differences for C-corporations, reconcile book income to taxable income, and prepare Schedule M-1 or M-3 on Form 1120.

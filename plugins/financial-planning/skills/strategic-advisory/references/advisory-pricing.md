@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Advisory and FP&A Services Pricing
 
 **Purpose:** Pricing models, rate benchmarks, and profitability analysis methods for accounting firm advisory and financial planning engagements.

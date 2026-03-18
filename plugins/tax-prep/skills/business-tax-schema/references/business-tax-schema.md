@@ -6,6 +6,10 @@ description: |
 
   Use when mapping inventory fields to form lines, checking era-specific rules (pre/post-TCJA),
   validating field completeness, or assembling form-gen packages.
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
 ---
 
 # Business Tax Schema

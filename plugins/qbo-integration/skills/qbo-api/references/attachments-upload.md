@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QuickBooks Online Attachments: Upload and Link
 
 Upload files and link documents to transactions.

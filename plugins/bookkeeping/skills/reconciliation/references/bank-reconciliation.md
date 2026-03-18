@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Bank Reconciliation
 
 Procedures for reconciling bank accounts to general ledger balances.

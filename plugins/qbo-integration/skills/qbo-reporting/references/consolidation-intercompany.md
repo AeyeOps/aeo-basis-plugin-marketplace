@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Intercompany Transactions
 
 Tracking, reconciling, and eliminating intercompany transactions across multiple QBO companies.

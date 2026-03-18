@@ -20,6 +20,12 @@ estimated payments, amended returns, IRS/state notice response, collections reso
 and tax research methodology. All guidance targets calendar-year C-corps filing Form 1120
 unless otherwise noted.
 
+> **State-specific scope:** Federal deadlines, extensions, estimated tax, amended returns,
+> IRS notice response, penalty abatement, collections, and tax research methodology are
+> nationally applicable. Sections marked (Florida) contain **Florida** DOR-specific
+> deadlines, collections procedures, and state source references. Practitioners in other
+> states should substitute their state's rules for the Florida-specific sections.
+
 ## Tax Calendar — Key Deadlines
 
 ### Federal Form 1120
@@ -50,7 +56,7 @@ Corporations expecting $500+ in tax liability pay quarterly:
 - $100K next-day rule applies regardless of deposit schedule
 - Form 941 quarterly: April 30, July 31, October 31, January 31
 
-### Florida F-1120
+### Florida F-1120 (Florida)
 
 - Due date matches federal (April 15 for calendar-year corps)
 - Extension follows federal — file Form 7004 for automatic FL extension
@@ -255,7 +261,7 @@ CDP rights arise upon NFTL filing notice (IRC 6320) or final levy notice (IRC 63
 
 For employment tax debts, assessed against any responsible person who willfully failed to pay over trust fund taxes. Personal liability equal to 100% of the unpaid trust fund portion. Determined via Form 4180 interview.
 
-### Florida DOR Collections
+### Florida DOR Collections (Florida)
 
 - Assessment sequence: DR-831 (30 days) → NOPA (60 days to protest) → Warrant
 - FL DOR may compromise debts under F.S. 213.21 (same factors as IRS OIC)
@@ -283,7 +289,7 @@ For employment tax debts, assessed against any responsible person who willfully 
 - **EFTPS** (eftps.gov) — estimated payments, balance due payments, payroll deposits
 - **PPS** — 866-860-4259, practitioner account inquiries and adjustments
 
-### Florida State Sources
+### Florida State Sources (Florida)
 
 - FL Statutes Chapter 220 (leg.state.fl.us) — corporate income tax
 - FL DOR TIPs and TAAs (floridarevenue.com) — interpretive guidance and binding advisements

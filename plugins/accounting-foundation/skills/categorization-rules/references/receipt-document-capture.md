@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Receipt and Document Capture
 
 Workflows for capturing, categorizing, matching, and retaining receipts and source documents to substantiate business transactions.

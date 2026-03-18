@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Schedule D (Form 1120): Capital Gains and Losses
 
 **Purpose**: Schedule D structure, net capital gain computation, capital loss carryback/carryforward mechanics, Section 1231 interaction, and how Schedule D feeds Form 1120 Line 8.

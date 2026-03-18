@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # IRS and FL DOR Collection Procedures and Resolution Options
 
 **Purpose**: IRS and Florida Department of Revenue collection process, notice sequences, installment agreements, offers in compromise, currently not collectible status, CDP rights, and penalty abatement for C-corporation tax debts.

@@ -19,6 +19,12 @@ Cross-cutting reference for corporate entity information that every service line
 consumes. Covers the data elements that identify an entity, its legal structure,
 its ownership, and its compliance obligations that flow from those characteristics.
 
+> **State-specific scope:** Entity type classification, fiscal year/accounting method,
+> ownership structure, foreign ownership, officers, related-party rules, and change
+> events are nationally applicable. State filing obligations marked (Florida) contain
+> **Florida**-specific formation procedures, fees, and corporate income tax rules.
+> Practitioners in other states should substitute their state's requirements.
+
 ## Entity Identification Data
 
 Every engagement begins with capturing the core identity fields. These fields
@@ -232,7 +238,7 @@ or membership certificates, shareholder agreements, and any amendments.
 
 ## State Filing Obligations
 
-### Florida-Specific
+### Florida
 
 **Corporation formation**: Articles of Incorporation filed with FL Division of
 Corporations (sunbiz.org). Filing fee: $35 (online) + $35 registered agent

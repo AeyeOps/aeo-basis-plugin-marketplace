@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: 2018-01-01
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Revenue Recognition — ASC 606
 
 Guidance for recognizing revenue from contracts with customers under ASC 606.

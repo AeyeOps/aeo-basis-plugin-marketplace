@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Client Onboarding
 
 Procedures for onboarding new bookkeeping clients, from pre-engagement screening through first-month deliverables.

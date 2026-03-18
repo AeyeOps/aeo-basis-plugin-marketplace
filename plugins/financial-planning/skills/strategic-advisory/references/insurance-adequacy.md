@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Business Insurance Adequacy Review
 
 **Purpose:** Procedures for evaluating, gap-analyzing, and advising on business insurance coverage for C-corporation advisory clients.

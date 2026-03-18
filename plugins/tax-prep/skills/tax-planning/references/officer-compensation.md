@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Officer Compensation: Reasonable Compensation Rules
 
 **Purpose**: IRS reasonable compensation requirements for corporate officers, documentation standards, and audit defense strategies.

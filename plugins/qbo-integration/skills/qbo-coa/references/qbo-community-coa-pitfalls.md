@@ -1,3 +1,10 @@
+---
+authority_level: tertiary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QBO Chart of Accounts: Community-Reported Problems and Pitfalls
 
 > Research compiled from QuickBooks Community forums, CPA ProAdvisor blogs, and accounting practitioner resources.

@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # M&A Financial Due Diligence — C-Corporation Transactions
 
 **Purpose:** Due diligence framework for financial, tax, and operational analysis in C-corporation acquisitions and dispositions.

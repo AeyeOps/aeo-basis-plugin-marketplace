@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Client Communication Templates and Cadence
 
 **Purpose:** Standardized communication workflows, timing, and templates for accounting firm client interactions across the engagement lifecycle.

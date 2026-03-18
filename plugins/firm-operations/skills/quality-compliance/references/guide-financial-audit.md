@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Business Financial Audit — Expert Resource Guide
 
 ## 1. Authoritative Standards

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Investment Tax Reporting
 
 Brokerage reconciliation, 1099 processing, and investment income reporting.

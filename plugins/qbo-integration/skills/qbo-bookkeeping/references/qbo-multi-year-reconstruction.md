@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # QBO Multi-Year Historical Reconstruction — Knowledge Base
 
 Research compiled 2026-02-24. Focus: multi-year historical bookkeeping reconstruction in QuickBooks Online, delinquent/catch-up scenarios, opening balances, COA evolution, and retained earnings behavior.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Payroll Tax Compliance — Forms 940, 941, W-2/W-3
 
 **Purpose**: Employment tax obligations for employers — FICA, FUTA, deposit schedules, quarterly/annual filing, W-2 reporting, trust fund recovery penalty, and Florida reemployment tax.

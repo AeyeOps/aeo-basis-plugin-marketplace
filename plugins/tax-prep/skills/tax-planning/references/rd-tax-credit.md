@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Research & Development Tax Credit — IRC 41, Form 6765
 
 **Purpose**: R&D tax credit eligibility (four-part test), qualified research expenses, credit calculation methods, Section 174 capitalization rules, payroll tax offset for small businesses, and documentation requirements.

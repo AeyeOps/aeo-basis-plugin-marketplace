@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: FL
+---
+
 # Florida Corporate Income Tax — Electronic Filing
 
 **Purpose**: Florida DOR electronic filing requirements for Form F-1120, e-Services portal, payment methods, extensions, and compliance for C-corporations doing business in Florida.

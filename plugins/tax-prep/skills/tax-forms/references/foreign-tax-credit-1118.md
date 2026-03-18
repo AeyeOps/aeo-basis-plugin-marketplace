@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Foreign Tax Credit — Form 1118 (Corporations)
 
 **Purpose**: Corporate foreign tax credit computation, separate limitation categories, carryback/carryforward rules, and GILTI/branch income treatment.

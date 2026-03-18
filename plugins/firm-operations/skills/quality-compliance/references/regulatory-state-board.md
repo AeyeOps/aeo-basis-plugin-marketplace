@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: FL
+---
+
 # State Board Regulatory Compliance and CPA Licensure
 
 **Purpose:** Document state board authority over CPA licensure, firm registration, practice standards, and multi-state practice privilege, with emphasis on Florida DBPR requirements.

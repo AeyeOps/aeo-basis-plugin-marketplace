@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Form 8949: Sales and Other Dispositions of Capital Assets (Corporate)
 
 **Purpose**: Form 8949 reporting categories, box selection, basis adjustment codes, wash sale rules, and cost basis methods for C-corporation capital gain/loss transactions.

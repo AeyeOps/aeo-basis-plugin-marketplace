@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Tax Research Tools, IRS Practitioner Portals, and Legal Source Databases
 
 **Purpose**: Reference catalog of authoritative tax research sources, IRS practitioner portals, and legal databases for corporate tax practitioners — tells skills WHERE to find law, guidance, and procedural authority.

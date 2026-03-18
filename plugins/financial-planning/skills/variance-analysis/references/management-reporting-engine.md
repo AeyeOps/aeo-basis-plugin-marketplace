@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Management Reporting Engine — KPI-Based Financial Reporting
 
 Architecture for a KPI computation and management reporting engine. KPIs in rows, time periods in columns. Produces P&L, Balance Sheet, and budget comparison reports with PDF, XLSX, and dashboard output.

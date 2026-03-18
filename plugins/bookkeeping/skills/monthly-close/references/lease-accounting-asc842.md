@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: 2019-01-01
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Lease Accounting — ASC 842
 
 Guidance for recognizing, measuring, and recording leases under ASC 842 (Leases).

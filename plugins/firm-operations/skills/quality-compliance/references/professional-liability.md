@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Professional Liability
 
 **Purpose:** Document professional liability (E&O) risk management for accounting firms, covering common claim triggers, loss prevention practices, and insurance considerations.

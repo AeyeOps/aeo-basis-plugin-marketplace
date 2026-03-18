@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: 2017-12-22
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Tax Rate Parameters and Reform Modeling
 
 Reference for tax law parameter catalogs, rate/bracket/threshold structures, reform

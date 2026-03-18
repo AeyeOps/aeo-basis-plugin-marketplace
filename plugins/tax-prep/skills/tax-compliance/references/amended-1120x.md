@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Amended Corporate Return — Form 1120-X
 
 **Purpose**: Rules for filing amended C-corp returns, statute of limitations, carryback claims, and interaction with other correction mechanisms.

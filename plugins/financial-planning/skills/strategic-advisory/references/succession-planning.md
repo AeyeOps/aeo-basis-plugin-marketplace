@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Business Succession and Ownership Transition Planning
 
 **Purpose:** Valuation methods, buy-sell structures, ownership transition paths, and tax considerations for closely-held C-corporation succession planning engagements.

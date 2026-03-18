@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Intercompany & Related-Party Transactions — C-Corporations
 
 **Purpose**: IRC 267/482 related-party rules, Form 5472 reporting for foreign-owned corps, transfer pricing documentation, and intercompany transaction compliance for C-corporation tax engagements.

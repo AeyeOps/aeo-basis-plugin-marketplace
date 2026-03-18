@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Form 1120 Page 1 Mappings
 
 C-Corporation tax form data extraction for Form 1120 Page 1 (Income and Deductions).

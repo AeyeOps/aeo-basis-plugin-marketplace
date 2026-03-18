@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Practice Management
 
 **Purpose:** Define workflow management principles, engagement lifecycle, and operational cadences for an accounting firm practice.

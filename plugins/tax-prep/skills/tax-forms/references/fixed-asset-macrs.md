@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Fixed Asset Depreciation: MACRS System
 
 **Purpose**: Comprehensive MACRS depreciation reference for C-corporation Form 1120 filers, covering property classification, Section 179, bonus depreciation, and disposition rules.

@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.3.0] - 2026-03-18
+
+### Added
+
+- **tax-prep** accounting-method-changes skill — Form 3115 filing procedures, Section 481(a) adjustment computation, DCN catalog for automatic consent changes (cash-to-accrual, Section 174 R&E, depreciation, UNICAP, bad debts, advance payments), audit protection strategy
+- **tax-prep** multistate-salt-matrix skill — Cross-state apportionment formula comparison, federal conformity matrix, multistate nexus evaluation, P.L. 86-272 internet activity analysis, combined/separate reporting, voluntary disclosure programs, state tax credit inventory
+- Reference provenance frontmatter on all 130 reference files (authority_level, effective_from, last_verified, jurisdiction)
+- Jurisdiction overlay convention documented in CLAUDE.md and README.md
+
+### Changed
+
+- Jurisdiction-labeled section headers on SKILL.md files with dedicated Florida content (state-returns, business-tax-schema, tax-compliance, nol-tracking, tax-planning, entity-profile)
+- Scope callout blockquotes added to Florida-containing skills distinguishing national from state-specific content
+- Reference files with mixed federal+state content reclassified from `jurisdiction: federal` to `jurisdiction: multistate`
+
 ## [0.2.0] - 2026-03-15
 
 Initial release.

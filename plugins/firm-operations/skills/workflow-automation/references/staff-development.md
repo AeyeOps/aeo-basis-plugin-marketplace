@@ -1,3 +1,10 @@
+---
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
+---
+
 # Staff Development and Career Progression
 
 **Purpose:** Define career ladder structure, competency expectations by level, training programs, and retention strategies for CPA/accounting firm staff.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Document Retention
 
 **Purpose:** Define retention periods, storage standards, and destruction procedures for accounting firm records, client documents, and workpapers.

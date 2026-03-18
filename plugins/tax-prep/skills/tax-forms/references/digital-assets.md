@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Cryptocurrency and Digital Asset Tax Compliance — C-Corporations
 
 **Purpose:** Tax classification, reporting requirements, and accounting treatment for digital assets held or transacted by C-corporations.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: FL
+---
+
 # CPE Compliance
 
 **Purpose:** Document continuing professional education requirements for CPA licensure maintenance, with emphasis on Florida DBPR requirements and NASBA standards.

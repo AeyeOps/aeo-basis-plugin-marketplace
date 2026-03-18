@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Investment Accounting in QuickBooks Online
 
 Account structure and journal entry patterns for investment portfolios.

@@ -16,6 +16,12 @@ description: >
 Operational skill for net operating loss computation, carryforward management, and
 utilization planning for C-corporations filing Form 1120.
 
+> **State-specific scope:** Federal NOL computation, carryback/carryforward rules,
+> utilization ordering, Section 382 limitations, and refund procedures are nationally
+> applicable. The State NOL Conformity section marked (Florida) contains
+> **Florida**-specific NOL rules. Practitioners in other states should substitute
+> their state's conformity rules.
+
 ## NOL Computation
 
 A net operating loss occurs when a C-corporation's allowable deductions exceed gross

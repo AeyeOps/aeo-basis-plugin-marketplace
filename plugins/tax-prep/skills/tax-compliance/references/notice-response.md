@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # IRS Notice Response and Penalty Abatement
 
 **Purpose**: Procedures for responding to IRS and FL DOR notices, securing penalty abatement, and managing practitioner interactions with the IRS.

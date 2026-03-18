@@ -17,6 +17,12 @@ description: >
 Operational skill for state corporate income tax return preparation, with deep coverage of
 Florida F-1120 and a framework for expanding to additional states as filing obligations arise.
 
+> **State-specific scope:** Nexus determination, apportionment concepts, P.L. 86-272, and
+> the multistate filing framework are nationally applicable. The detailed return preparation
+> walkthrough uses **Florida** (Form F-1120) as the reference state jurisdiction. Sections
+> marked (Florida) contain state-specific content. Practitioners in other states should
+> substitute their state's rules for the Florida-specific sections below.
+
 ## Nexus Determination
 
 Nexus is the minimum connection giving a state authority to impose income tax. Evaluate
@@ -75,7 +81,7 @@ determined solely by physical presence and factor presence tests.
 4. If nexus exists, check P.L. 86-272 — only protects tangible personal property sales
 5. Result: list of states where a return must be filed
 
-## Florida Corporate Income Tax (Form F-1120)
+## Florida Corporate Income Tax (Florida — Form F-1120)
 
 ### Filing Obligation
 
@@ -95,7 +101,7 @@ Historical rate changes:
 - 2021: 3.535% (SB 50, temporary reduction)
 - 2022-present: 5.5% (temporary reductions sunset)
 
-### Computing Florida Taxable Income
+### Computing Florida Taxable Income (Florida)
 
 1. **Start with federal taxable income** (Form 1120, Line 30, before NOL and special deductions)
 2. **Add Florida additions** — FL tax-exempt interest, related-party intangible expenses subject to addback
@@ -107,7 +113,7 @@ Historical rate changes:
 This computation depends on a completed federal Form 1120. The federal return must be
 finalized first; invoke `tax-prep:form-1120-prep` if the federal return is not yet complete.
 
-### Apportionment
+### Apportionment (Florida)
 
 Florida uses a **single sales factor** for tax years beginning on or after January 1, 2019.
 Prior to 2019, Florida used a three-factor formula with double-weighted sales (25% property,
@@ -124,7 +130,7 @@ numerator (unlike throwback states where they would be added back).
 **No combined/unitary reporting**: Each corporation files separately unless electing
 consolidated.
 
-### Florida NOL Rules
+### Florida NOL Rules (Florida)
 
 Florida maintains a separate NOL carryforward schedule distinct from the federal NOL.
 
@@ -134,7 +140,7 @@ Florida maintains a separate NOL carryforward schedule distinct from the federal
 - **No CARES Act carryback**: Florida did not conform to the 5-year carryback for 2018-2020 NOLs
 - Track Florida NOLs separately from federal NOLs; invoke `tax-prep:nol-tracking` for the federal NOL ledger
 
-### Florida Estimated Tax
+### Florida Estimated Tax (Florida)
 
 - Required when expected FL tax liability exceeds **$2,500**
 - Quarterly payments using Form F-1120ES, aligned with federal estimated payment schedule
@@ -155,7 +161,7 @@ Florida maintains a separate NOL carryforward schedule distinct from the federal
 - No tax due: $50 per month, up to $300 maximum
 - Non-electronic filing when required: $500 or 5% of tax due, whichever is greater
 
-### Florida IRC Conformity
+### Florida IRC Conformity (Florida)
 
 Florida piggybacks on the IRC as of January 1 of the current tax year (rolling conformity).
 Key non-conformities:
@@ -163,7 +169,7 @@ Key non-conformities:
 - Own addback rules for related-party intangible expenses
 - Bonus depreciation conformity has varied by year; check the year-specific conformity date
 
-## E-Filing Requirements (Florida)
+## E-Filing Requirements (Florida DOR)
 
 ### E-File Mandate
 
@@ -177,7 +183,7 @@ The primary channel for F-1120 is the federal MeF (Modernized e-File) Fed/State 
 Federal and Florida returns can be submitted together in a single MeF transmission through
 IRS- and FL DOR-approved software vendors.
 
-### Florida eServices Portal
+### Florida eServices Portal (Florida)
 
 Used for supplemental functions: estimated tax payments (F-1120ES), extensions (F-7004),
 account management, tax clearance letters. Available 24/7 Monday-Saturday; Sunday

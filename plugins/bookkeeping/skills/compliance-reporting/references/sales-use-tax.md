@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
+---
+
 # Sales and Use Tax Compliance
 
 Procedures for managing sales tax nexus, use tax obligations, exemption certificates, and state filings for bookkeeping clients.

@@ -6,6 +6,10 @@ description: |
   Use when: OAuth 2.0 auth setup, creating journal entries or batch transactions,
   REST/GraphQL queries, financial report generation, document attachments,
   year-end close, Form 1120 data extraction, or multi-entity consolidation.
+authority_level: secondary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: N/A
 ---
 
 # QuickBooks Online Integration

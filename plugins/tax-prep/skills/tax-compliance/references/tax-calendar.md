@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: multistate
+---
+
 # Tax Calendar: C-Corporation Filing Deadlines
 
 **Purpose**: Canonical deadline reference for Form 1120 filers (calendar year C-corps), covering federal, Florida, information returns, and payroll deposits.

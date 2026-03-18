@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Quality Management
 
 **Purpose:** Document AICPA quality management standards governing accounting firm operations, with focus on the SQCS-to-SQMS transition and small-firm implementation.

@@ -1,3 +1,10 @@
+---
+authority_level: primary
+effective_from: evergreen
+last_verified: 2026-03-18
+jurisdiction: federal
+---
+
 # Depreciation and Amortization — Form 4562
 
 **Purpose**: MACRS depreciation classes, Section 179 expensing, bonus depreciation phase-down, listed property rules, and amortization of intangibles.
