@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.3.1] - 2026-03-22
+
+### Added
+
+- **tax-prep** dividends-received-deduction reference — Complete DRD computation algorithm with year-indexed rate variance table (pre-TCJA 70/80/100, post-TCJA 50/65/100), IRC 246(b) tier-specific taxable income limitation, 246(b)(2) NOL exception, 246(c) holding period, 246A debt-financed stock reduction, 245/245A foreign corporation rules, Schedule C line-by-line walkthrough, and worked examples
+- **tax-prep** form-1120-prep Schedule C section — Dedicated DRD section with year-dependent rates and progressive disclosure pointer to the new reference
+
+### Fixed
+
+- **qbo-integration** qbo-audit DRD limitation formula — Replace incorrect blanket "65% of taxable income" with per-tier limitation language and IRC citations
+- **qbo-integration** qbo-audit Python calculator — Fix hard-coded `0.65` limitation rate to use year-dependent tier-specific rates, add `tax_year` parameter with pre/post-TCJA rate selection, add IRC 246(b)(2) NOL exception logic
+
 ## [0.3.0] - 2026-03-18
 
 ### Added

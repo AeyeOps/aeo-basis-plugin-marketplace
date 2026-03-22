@@ -299,16 +299,28 @@ class DividendReceived:
 
 def calculate_dividends_received_deduction(
     dividends: list[DividendReceived],
-    taxable_income_before_drd: Decimal
+    taxable_income_before_drd: Decimal,
+    tax_year: int = 2024
 ) -> dict:
     """
     Calculate Dividends Received Deduction for Schedule C.
 
-    DRD rates:
-    - Less than 20% ownership: 50% deduction
-    - 20% to less than 80% ownership: 65% deduction
-    - 80% or more ownership: 100% deduction
+    DRD rates are year-dependent (TCJA changed rates effective 2018):
+      Post-TCJA (2018+): 50% / 65% / 100%
+      Pre-TCJA (before 2018): 70% / 80% / 100%
+
+    For full DRD computation rules (holding period, debt-financed stock,
+    foreign corp rules, Schedule C walkthrough), see the authoritative
+    reference: tax-prep:form-1120-prep / references/dividends-received-deduction.md
     """
+    # Year-dependent rate tiers — IRC 243, TCJA Section 13002
+    if tax_year >= 2018:
+        rate_lt20 = Decimal("0.50")
+        rate_20_80 = Decimal("0.65")
+    else:
+        rate_lt20 = Decimal("0.70")
+        rate_20_80 = Decimal("0.80")
+
     schedule_c = {
         "column_a": [],
         "column_b": [],
@@ -327,10 +339,10 @@ def calculate_dividends_received_deduction(
             rate = Decimal("1.00")
             line = "line_3"
         elif div.ownership_pct >= 20:
-            rate = Decimal("0.65")
+            rate = rate_20_80
             line = "line_2"
         else:
-            rate = Decimal("0.50")
+            rate = rate_lt20
             line = "line_1"
 
         deduction = div.amount * rate
@@ -343,11 +355,35 @@ def calculate_dividends_received_deduction(
         schedule_c["totals"]["total_dividends"] += float(div.amount)
         schedule_c["totals"]["total_deduction"] += float(deduction)
 
-    # Taxable income limitation
-    ti_limit = float(taxable_income_before_drd) * 0.65
-    if schedule_c["totals"]["total_deduction"] > ti_limit:
-        schedule_c["totals"]["limited_deduction"] = ti_limit
-        schedule_c["totals"]["limitation_applied"] = True
+    # Taxable income limitation — IRC 246(b)
+    # Each sub-100% tier is limited to (tier_rate × TI_before_DRD).
+    # Exception: if the full DRD creates/increases an NOL, limitation is waived — IRC 246(b)(2).
+    ti = float(taxable_income_before_drd)
+    full_drd = schedule_c["totals"]["total_deduction"]
+
+    # Test 246(b)(2) NOL exception: would the full DRD create or increase an NOL?
+    if full_drd > 0 and (ti - full_drd) >= 0:
+        # No NOL created — limitation may apply. Compute per-tier limits.
+        limited_total = 0.0
+        for div in dividends:
+            if not div.qualified:
+                continue
+            if div.ownership_pct >= 80:
+                # 100% tier — no taxable income limitation
+                limited_total += float(div.amount)
+            elif div.ownership_pct >= 20:
+                tier_drd = float(div.amount * rate_20_80)
+                tier_limit = ti * float(rate_20_80)
+                limited_total += min(tier_drd, tier_limit)
+            else:
+                tier_drd = float(div.amount * rate_lt20)
+                tier_limit = ti * float(rate_lt20)
+                limited_total += min(tier_drd, tier_limit)
+
+        if limited_total < full_drd:
+            schedule_c["totals"]["limited_deduction"] = limited_total
+            schedule_c["totals"]["limitation_applied"] = True
+    # else: full DRD creates NOL → 246(b)(2) exception, no limitation applied
 
     return schedule_c
 ```

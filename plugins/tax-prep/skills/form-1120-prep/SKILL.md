@@ -182,6 +182,22 @@ deduction, DRD, and NOL carryback. Resolution:
 
 For DRD, the deduction may itself be limited to a percentage of taxable income (without the DRD) unless the DRD creates or increases a loss. The 50% and 65% DRD tiers have this limitation; the 100% tier does not.
 
+## Schedule C — Dividends Received Deduction
+
+DRD rates are year-dependent. Apply the rates for the tax year under preparation:
+- **2018+** (post-TCJA): 50% (<20% owned), 65% (20-79%), 100% (80%+/affiliated)
+- **2007-2017** (pre-TCJA): 70% (<20%), 80% (20-79%), 100% (80%+)
+
+The 50/65% tiers (or 70/80% pre-TCJA) are each limited to the SAME tier-specific
+percentage of taxable income without DRD (IRC 246(b)). NOT a blanket 65% cap.
+If full DRD creates/increases NOL, limitation waived (IRC 246(b)(2)). 100%
+tier has no limitation.
+
+Additional year-aware rules: §245A participation exemption (2018+ only, 100%
+DRD for 10%+ owned foreign subs); AMT DRD adjustment (pre-2018 only, 75%
+limit). Year-independent: 46-day holding period (IRC 246(c)); debt-financed
+stock reduction (IRC 246A).
+
 ## Section 163(j) Business Interest Limitation
 
 For tax years beginning after 2017, business interest deductions may be limited to
@@ -265,6 +281,7 @@ Read these for detailed rules on specific topics:
 - `references/tax-rate-parameters.md` -- Tax rate parameter catalog, reform dictionary format, calculator engine pipeline, tax function execution order, and distributional analysis. Read when cross-referencing rate parameters, modeling individual tax reform impacts, or understanding bracket computation mechanics.
 - `references/form-dependency-resolution.md` -- Form dependency resolution patterns: dependency solver architecture, field/input type system, threshold dictionaries, PDF filling pipeline, and supported form dependency graphs (1040 + schedules). Read when studying form dependency resolution patterns or threshold parameterization.
 - `references/tax-computation-provenance.md` -- Provenance-tracked tax computation: traced value system, deterministic rules engine (compute node pattern), form fillers, multi-state return modules, PDF compilation pipeline, integer-cents arithmetic, and quality gates framework. Read when studying provenance-tracked computation, PDF form filling patterns, or multi-state return architecture.
+- `references/dividends-received-deduction.md` -- Complete DRD computation algorithm: IRC 243 rate tiers with year-indexed variance table (pre-TCJA 70/80/100 and post-TCJA 50/65/100), IRC 246(b) tier-specific taxable income limitation, 246(b)(2) NOL exception, 246(c) holding period, 246A debt-financed stock reduction, IRC 245/245A foreign corporation dividends (245A is post-TCJA only), Schedule C line-by-line walkthrough, computation ordering with charitable contribution interaction, and worked examples including pre-TCJA rate comparison. Read when computing DRD, verifying Schedule C, debugging the taxable income limitation, or determining which DRD rules apply for a specific tax year.
 - `references/templates/1120-federal/blank/` -- Blank Form 1120 PDFs by year (2007-2025). Use as reference when verifying line numbers, form layout, or identifying year-over-year changes.
 - `references/templates/1120-federal/instructions/` -- Form 1120 instruction PDFs by year (2007-2025). Use for official IRS line-by-line guidance for a specific tax year.
 

@@ -2,7 +2,7 @@
 
 An open-source knowledge base for accounting firms, packaged as a [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketplace. Six plugins deliver 36 specialized skills across bookkeeping, tax preparation, financial planning, and firm operations — all tuned for C-corporation engagements on US GAAP.
 
-Every skill is backed by curated reference material (130 articles, 34,000+ lines of source content) synthesized into operational decision logic, procedures, and rules that Claude can apply in real time during client work.
+Every skill is backed by curated reference material (131 articles, 34,000+ lines of source content) synthesized into operational decision logic, procedures, and rules that Claude can apply in real time during client work.
 
 ## What This Does
 
@@ -280,7 +280,7 @@ aeo-basis-plugin-marketplace/
 │   ├── accounting-foundation/    # 4 skills, 18 reference files
 │   ├── qbo-integration/          # 5 skills, 26 reference files
 │   ├── bookkeeping/              # 7 skills, 18 reference files
-│   ├── tax-prep/                 # 10 skills, 41 reference files
+│   ├── tax-prep/                 # 10 skills, 42 reference files
 │   ├── financial-planning/       # 5 skills, 13 reference files
 │   └── firm-operations/          # 5 skills, 14 reference files
 ├── CHANGELOG.md

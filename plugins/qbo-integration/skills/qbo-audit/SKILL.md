@@ -215,12 +215,12 @@ Traces retained earnings from beginning to end of year:
 
 ## Schedule C: Dividends Received Deduction
 
-DRD calculation requires ownership percentage for each dividend payer:
-- **Less than 20% ownership** — 50% deduction
-- **20% to less than 80%** — 65% deduction
-- **80% or more** — 100% deduction
+DRD rates are year-dependent. Apply rates for the tax year under preparation:
+- **Less than 20% ownership** — 50% (post-TCJA) / 70% (pre-TCJA) (IRC 243(a)(1))
+- **20% to less than 80%** — 65% (post-TCJA) / 80% (pre-TCJA) (IRC 243(c))
+- **80% or more** — 100% (all years) (IRC 243(a)(3))
 
-Taxable income limitation: total DRD capped at 65% of taxable income before DRD (unless the full DRD creates or increases a net operating loss).
+Taxable income limitation (IRC 246(b)): the sub-100% tiers are each limited to the SAME tier-specific percentage of taxable income computed without the DRD. This is per-tier, not a blanket 65%. If the full unlimited DRD creates or increases a net operating loss, the limitation does not apply (IRC 246(b)(2)). The 100% tier has no taxable income limitation. For the complete DRD computation algorithm (holding period, debt-financed stock, foreign corporation rules, Schedule C line walkthrough, worked examples), invoke `tax-prep:form-1120-prep` and read `references/dividends-received-deduction.md`.
 
 ## Complete Tax Data Export
 
